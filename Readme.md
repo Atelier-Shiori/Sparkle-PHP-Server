@@ -7,8 +7,8 @@ Why PHP?  Because I know PHP.  If you prefer some other scripting language, you'
 
 # Server Requirements
 To effectively use Sparkle with profiling, your server must support a database engine and a server-side scripting language which can access that database.  The included demo code requires:
-	⁃	PHP version 5.x (PHP 7 compatible)
-	⁃	MySQL 5.x.
+* PHP version 5.x (PHP 7 compatible)
+* MySQL 5.x.
 
 Since the Sparkle profile code uses standard HTTP variables, it should be straightforward to write comparable code in Python, Ruby, Perl, or whatever other language you might prefer to use.
 
